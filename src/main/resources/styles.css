@@ -1,0 +1,11 @@
+#green {
+    -fx-fill: green;
+}
+
+#red {
+    -fx-fill: red;
+}
+
+#container {
+    -fx-fill: aliceblue;
+}
